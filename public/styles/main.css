@@ -48,7 +48,7 @@ button {
   display: block;
   width: 100%;
   padding: 10px;
-  background-color: #ffca00;
+  background-color: #898989;
   color: white;
   border: none;
   border-radius: 5px;
@@ -61,7 +61,7 @@ button {
 }
 
 button:hover {
-  background-color: #ffd500;
+  background-color: #898989;
 }
 
 #result {
